@@ -9,3 +9,8 @@
 .idea/
 
 /.idea/
+modules.xml
+misc.xml
+vcs.xml
+workspace.xml
+spring_trainingMine.iml
