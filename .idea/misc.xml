@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/spring-02-Core-IoC-Stereotype-Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/spring-08-MVC-Controller/pom.xml" />
         <option value="$PROJECT_DIR$/spring-09-MVC-mODEL/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-10-thymleaf/pom.xml" />
       </list>
     </option>
   </component>

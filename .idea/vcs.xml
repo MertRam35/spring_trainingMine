@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-08-MVC-Controller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-09-MVC-mODEL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-10-thymleaf" vcs="Git" />
   </component>
 </project>
