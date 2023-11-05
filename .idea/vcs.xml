@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spiring-17-REST-ConsumeApis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-08-MVC-Controller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-09-MVC-mODEL" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-10-thymleaf" vcs="Git" />
